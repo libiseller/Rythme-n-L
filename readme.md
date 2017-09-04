@@ -9,7 +9,7 @@ University of Twente
 You will see an introduction which builds up the main structure of the painting “Rythme n°1” by Robert Delaunay. Simultaneously the song “L” by the band “Tycho” is playing. Together they create a guidance for interaction and establish the connection between the user and the dynamic painting.
 I chose this painting because of the rich colors and it seemed perfect to bring it to life in music.
 
-![Rhythm n°1 by Robert Delaunay](https://en.wikipedia.org/wiki/Robert_Delaunay#/media/File:Robert_Delaunay,_1938,_Rythme_n%C2%B01,_Decoration_for_the_Salon_des_Tuileries,_oil_on_canvas,_Mus%C3%A9e_d%27Art_Moderne_de_la_ville_de_Paris.jpg)
+![Rhythm n°1 by Robert Delaunay](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Robert_Delaunay%2C_1938%2C_Rythme_n%C2%B01%2C_Decoration_for_the_Salon_des_Tuileries%2C_oil_on_canvas%2C_Mus%C3%A9e_d%27Art_Moderne_de_la_ville_de_Paris.jpg/800px-Robert_Delaunay%2C_1938%2C_Rythme_n%C2%B01%2C_Decoration_for_the_Salon_des_Tuileries%2C_oil_on_canvas%2C_Mus%C3%A9e_d%27Art_Moderne_de_la_ville_de_Paris.jpg)
 
 
 ## Usage
