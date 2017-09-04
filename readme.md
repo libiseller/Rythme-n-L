@@ -2,7 +2,8 @@ Rythme n°L
 ------
 
 Final Assignment "Programming for We Create Identity (P4WCI)" 2016
-Creative Technology 
+Stefan Libiseller  
+Creative Technology  
 University of Twente  
 
 ## Synopsis
